@@ -10,3 +10,5 @@ posts.</h3>
 <h3>-Integrated Appwrite's storage services to efficiently handle image uploads for blog posts, enhancing the visual appeal of content.</h3>
 
 <h3>-Utilized Appwrite's authentication services to manage user identities, ensuring a seamless and secure login/signup experience.</h3>
+
+<h3>-React.js, Redux-toolkit, Tailwind, Appwrite (Backend)</h3>
